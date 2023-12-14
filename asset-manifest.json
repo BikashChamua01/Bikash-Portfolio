@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Bikash-Portfolio/static/css/main.b91926ee.css",
-    "main.js": "/Bikash-Portfolio/static/js/main.37de6df3.js",
-    "static/js/787.e305aa0e.chunk.js": "/Bikash-Portfolio/static/js/787.e305aa0e.chunk.js",
-    "index.html": "/Bikash-Portfolio/index.html",
-    "main.b91926ee.css.map": "/Bikash-Portfolio/static/css/main.b91926ee.css.map",
-    "main.37de6df3.js.map": "/Bikash-Portfolio/static/js/main.37de6df3.js.map",
-    "787.e305aa0e.chunk.js.map": "/Bikash-Portfolio/static/js/787.e305aa0e.chunk.js.map"
+    "main.css": "/static/css/main.b91926ee.css",
+    "main.js": "/static/js/main.e78d66bf.js",
+    "static/js/787.e305aa0e.chunk.js": "/static/js/787.e305aa0e.chunk.js",
+    "index.html": "/index.html",
+    "main.b91926ee.css.map": "/static/css/main.b91926ee.css.map",
+    "main.e78d66bf.js.map": "/static/js/main.e78d66bf.js.map",
+    "787.e305aa0e.chunk.js.map": "/static/js/787.e305aa0e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b91926ee.css",
-    "static/js/main.37de6df3.js"
+    "static/js/main.e78d66bf.js"
   ]
 }
